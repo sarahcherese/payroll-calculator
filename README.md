@@ -43,6 +43,6 @@ Tax Deduction: $221.61
 Retirement Contribution: $66.48
 Net Pay: $1,928.01
 
-That gives recruiters a quick visual of what your program does.
+## What I Learned
 
-Once you commit that change, your README is in good shape. Then I’d have you do one final thing: add a short **What I Learned** section, because that makes a beginner portfolio project stronger and shows you actually understand the concepts instead of only posting code.
+While building this project, I practiced using Python variables, user input, conditional statements, while loops, input validation, arithmetic calculations, percentages, and formatted output. I also learned how to organize a small Python project and publish it to GitHub.
