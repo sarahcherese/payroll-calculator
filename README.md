@@ -21,3 +21,10 @@ A Python payroll calculator that calculates regular pay, overtime pay, gross pay
 - Arithmetic calculations
 - Percentage calculations
 - f-string formatting
+## How to Run
+
+1. Make sure Python is installed on your computer.
+2. Clone or download this repository.
+3. Open the project folder in Visual Studio Code or another code editor.
+4. Run the `payroll.py` file.
+5. Enter the requested employee information when prompted.
