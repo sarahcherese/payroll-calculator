@@ -42,3 +42,7 @@ Gross Pay: $2,216.10
 Tax Deduction: $221.61
 Retirement Contribution: $66.48
 Net Pay: $1,928.01
+```
+## What I Learned
+
+While building this project, I practiced using Python variables, user input, conditional statements, while loops, input validation, arithmetic calculations, percentages, and formatted output. I also learned how to organize a small Python project and publish it to GitHub.
