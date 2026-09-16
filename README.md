@@ -28,3 +28,21 @@ A Python payroll calculator that calculates regular pay, overtime pay, gross pay
 3. Open the project folder in Visual Studio Code or another code editor.
 4. Run the `payroll.py` file.
 5. Enter the requested employee information when prompted.
+## Sample Output
+
+```
+------ PAYROLL SUMMARY ------
+Employee: Sarah Price
+Hourly Rate: $24.90
+Regular Hours: 80
+Overtime Hours: 6.0
+Regular Pay: $1,992.00
+Overtime Pay: $224.10
+Gross Pay: $2,216.10
+Tax Deduction: $221.61
+Retirement Contribution: $66.48
+Net Pay: $1,928.01
+
+That gives recruiters a quick visual of what your program does.
+
+Once you commit that change, your README is in good shape. Then I’d have you do one final thing: add a short **What I Learned** section, because that makes a beginner portfolio project stronger and shows you actually understand the concepts instead of only posting code.
